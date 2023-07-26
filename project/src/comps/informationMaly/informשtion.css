@@ -1,0 +1,17 @@
+.content{
+    height: 250px;
+}
+.contantImg img{
+    height: 200px;
+}
+
+.contantInfo{
+    height: 100px;
+    background-color: #706262;
+    border-radius: 20px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}

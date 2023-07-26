@@ -1,0 +1,12 @@
+.logos{
+    height: 70px;
+    margin: 10px;
+}
+
+.leftNav{
+    height: 300px;
+}
+.leftNav .logos{
+    margin: 30px;
+    height: 130px;
+}
