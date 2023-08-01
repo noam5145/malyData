@@ -10,7 +10,7 @@ export default function InformationMaly() {
         <div className="d-flex justify-content-center align-items-center bg-secondary m-2">
           <h4 className="text-info"> ייעוד מל"י</h4>
         </div>
-        <div className="h-100 m-2  bg-secondary">
+        <div className=" m-2  bg-secondary">
           <h5 className="d-flex justify-content-center align-items-center h-25">
             {" "}
             הכנת כוחות היבשה באופן חיילי ורב זרועי למלחמה
