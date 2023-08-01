@@ -1,0 +1,28 @@
+img {
+    height: 80px;
+    width: 80px;
+    object-fit: cover;
+    filter: drop-shadow(1.3px 1.3px 1.3px);
+}
+
+.footerNavLeft {
+    height: 50px;
+    background-color: rgb(98, 96, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: rgb(238, 185, 221);
+    font-weight: bold;
+}
+.footerNavRight {
+    height: 50px;
+    background-color: rgb(98, 96, 99);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: rgb(207, 159, 57);
+    font-weight: bold;
+    margin: 0;
+}
