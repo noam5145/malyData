@@ -1,12 +1,14 @@
 .logos{
-    height: 70px;
+   
     margin: 10px;
 }
 
 .leftNav{
-    height: 300px;
+    height: 245px;
 }
 .leftNav .logos{
     margin: 30px;
-    height: 130px;
+   height: 120px;
+   width: 120px;
+  object-fit: contain;
 }
