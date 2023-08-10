@@ -2,11 +2,12 @@ import React from "react";
 import "./topNav.css";
 import Zroha from "../../imagesMaly/zrohaHayabasha.png";
 import Hativa500 from '../../imagesMaly/hativa500.png'
-import Mishan from "../../imagesMaly/mishan.png";
+import logo from "../../imagesMaly/alpha.png"
 
 
 export default function TopNav() {
   return (
+    <>
     <div>
       <div className="row">
         <div className="col-4 d-flex mt-3">
@@ -28,5 +29,9 @@ export default function TopNav() {
         </div>
       </div>
     </div>
+    <div className="container-alpha-logo">
+       <img className="alpha-logo" src={logo} alt="" />
+    </div>
+    </>
   );
 }

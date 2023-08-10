@@ -19,7 +19,7 @@ export default function InformationMaly() {
           </span>
         </div>
       </div>
-      <div className="col-8 h-100 mt-5">
+      <div className="col-8 h-100 ">
         <div className="row justify-content-center mb-1">
           <span className="col-2">
             {" "}

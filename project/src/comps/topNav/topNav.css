@@ -12,3 +12,16 @@
    width: 120px;
   object-fit: contain;
 }
+.container-alpha-logo{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin: 0;
+    height: 0;
+}
+.alpha-logo{
+    object-fit: contain;
+    margin: 0;
+    height: 50px;
+    width: 150px;
+}
